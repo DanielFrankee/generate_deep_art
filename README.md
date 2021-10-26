@@ -1,5 +1,5 @@
-# Deep Generative Image Synthesis
-A List of colabs for deep generative image synthesis
+# Artistic Image Synthesis using Deep Generative Adversarial Networks
+A List of colabs for artistic image synthesis
 
 
 # Links
