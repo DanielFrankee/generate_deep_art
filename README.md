@@ -1,5 +1,5 @@
 # Artistic Image Synthesis using Deep Generative Adversarial Networks
-A List of colabs for artistic image synthesis
+A List of colabs for artistic image synthesis. Some of them are also using openAI's CLIP to control the output by text prompt's.
 
 
 # Links
