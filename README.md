@@ -1,1 +1,1 @@
-# generate_deep_art
+# generate deep art
